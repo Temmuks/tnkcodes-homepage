@@ -1,0 +1,71 @@
+header {
+    font-family: "Audiowide", sans-serif;
+    margin: auto;
+    padding: 1rem;
+    height: 100%;
+    background-image: linear-gradient(180deg, rgb(24, 24, 24), #222222 40%, #353535);
+}
+
+footer {
+    font-family: "Audiowide", sans-serif;
+    position: fixed;
+    width: 100%;
+    bottom: 0;
+    color: white;
+    margin: auto;
+    padding: 1rem;
+    background-image: linear-gradient(180deg, #353535, #222222 40%, rgb(24, 24, 24));
+    text-align: center;
+}
+
+.row {
+    text-align: center;
+}
+
+#linkBtns {
+    box-shadow: 0px 0px 10px rgb(255, 183, 0);
+    background-image: linear-gradient(180deg, #ffa200, #e68a00 40%, rgb(246, 164, 0));
+    border: 1px solid rgb(64, 64, 64);
+    border-radius: 25px;
+}
+
+main {
+    background-color: #353535;
+    /* height: auto; */
+    min-height: 100vh;
+    padding: 2rem;
+    font-family: "Audiowide", sans-serif;
+    margin-bottom: 170px;
+}
+
+.images {
+    border-radius: 100px;
+    height: 300px;
+}
+
+.fontSet {
+    font-family: "Audiowide", sans-serif;
+}
+
+body {
+    background-color: #353535;
+    height: 100%;
+}
+
+section {
+    background-color: #353535;
+
+}
+#infoTxt{
+    text-align: center;
+    box-shadow: 0px 0px 10px rgb(32, 32, 32);
+    background-image: linear-gradient(180deg, rgb(24, 24, 24), #222222 40%, #353535);
+    border: 1px solid rgb(64, 64, 64);
+    border-radius: 25px;
+    padding: 4px;
+}
+#infoImg{
+        border-radius: 100px;
+      height: auto;
+      max-width: 100%;
+}
